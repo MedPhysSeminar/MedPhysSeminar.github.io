@@ -2,21 +2,21 @@
 layout: homepage
 ---
 
-## About Me
+## About
 
-I am a Ph.D. student at ...
+The Medical Physics Seminar is a monthly seminar which brings together a variety of researchers from different branches of medical physics to discuss their current research and potential collaborations. The seminar structure consists of a 20-30 minute presentation by a selected speaker, followed by a discussion. The seminar takes place virtually on the 1st Tuesday of every month at 9 am EST | 3 pm CET.
 
-## Research Interests
+## Upcoming seminars
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+**Date: May 7th, 2024**
+- **Speaker:** Dr. Jungwook Shin (National Cancer Institute, Rockville, MD, USA)   
+- **Title:** "Patient-specific Dosimetry for I131-Radiopharmaceutical Therapy" (Provisional Title)
 
-## News
+## Previous seminars
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+**Date: April 16th, 2024**
+- **Speaker:** Dr. Wonmo Sung (Catholic University of Korea, Seoul, South Korea)   
+- **Title:** "Radiation Damage to Blood Cells"
 
 {% include_relative _includes/publications.md %}
 
