@@ -4,7 +4,7 @@ layout: homepage
 
 ## About the Seminar
 
-The Medical Physics Seminar is a monthly meeting which brings together a variety of researchers from different branches of medical physics to discuss their current research and potential collaborations. The seminar structure generally consists of a 20-30 minute presentation by a selected speaker, followed by a discussion. The seminar takes place virtually on the 1st Tuesday of every month at 9 am EST (3 pm CET).
+<div style="text-align: right"> The Medical Physics Seminar is a monthly meeting which brings together a variety of researchers from different branches of medical physics to discuss their current research and potential collaborations. The seminar structure generally consists of a 20-30 minute presentation by a selected speaker, followed by a discussion. The seminar takes place virtually on the 1st Tuesday of every month at 9 am EST (3 pm CET). </div>
 
 
 ## Upcoming Seminars
