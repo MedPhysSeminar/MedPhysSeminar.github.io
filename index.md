@@ -9,17 +9,17 @@ The Medical Physics Seminar is a monthly meeting which brings together a variety
 
 ## Upcoming Seminars
 
-- **Date: May 7th, 2024**
+- **Date:** May 7th, 2024
   - **Speaker:** Dr. Jungwook Shin
   - **Affiliation(s):** National Cancer Institute, Rockville, MD, USA
   - **Title:** "Patient-specific Dosimetry for I131-Radiopharmaceutical Therapy" (Provisional Title)
 
-- **Date: June 4th, 2024**
+- **Date:** June 4th, 2024
   - **Speaker:** Dr. Sebastian Tattenberg
   - **Affiliation(s):** NOSM University, Sudbury, ON, Canada and TRIUMF, Vancouver, BC, Canada 
   - **Title:** "Proton Arc Therapy and Proton Range Uncertainty Reductions; Correlations between Blood Dose and Adverse Clinical Outcomes in Photon Therapy"
 
-- **Date: July 2nd, 2024**
+- **Date:** July 2nd, 2024
   - **Speaker:** Dr. Nadya Shusharina
   - **Affiliation(s):** Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA
   - **Title:** "Harnessing DW-MRI to Identify Direction of Tumor Spread in Muscles"
@@ -27,7 +27,7 @@ The Medical Physics Seminar is a monthly meeting which brings together a variety
 
 ## Previous Seminars
 
-- **Date: April 16th, 2024**
+- **Date:** April 16th, 2024
   - **Speaker:** Dr. Wonmo Sung
   - **Affiliation(s):** Catholic University of Korea, Seoul, South Korea
   - **Title:** "Radiation Damage to Blood Cells"
