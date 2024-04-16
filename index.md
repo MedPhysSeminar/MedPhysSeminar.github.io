@@ -17,7 +17,3 @@ The Medical Physics Seminar is a monthly seminar which brings together a variety
 **Date: April 16th, 2024**
 - **Speaker:** Dr. Wonmo Sung (Catholic University of Korea, Seoul, South Korea)   
 - **Title:** "Radiation Damage to Blood Cells"
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
