@@ -24,6 +24,10 @@ layout: homepage
   - **Affiliation(s):** Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA
   - **Title:** "Harnessing DW-MRI to Identify Direction of Tumor Spread in Muscles"
 
+- **Date:** August 6th, 2024
+  - **Speaker:** Dr. Arthur Lalonde
+  - **Affiliation(s):** Centre Hospitalier de l'Université de Montréal, Montréal, QC, Canada
+  - **Title:** TBA
 
 ## Previous Seminars
 
