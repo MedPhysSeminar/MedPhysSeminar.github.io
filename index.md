@@ -28,6 +28,11 @@ layout: homepage
   - **Speaker:** Dr. Arthur Lalonde
   - **Affiliation(s):** Centre Hospitalier de l'Université de Montréal, Montréal, QC, Canada
   - **Title:** TBA
+ 
+- **Date:** September 3rd, 2024
+  - **Speaker:** Dr. Arthur Lalonde
+  - **Affiliation(s):** Corewell Health William Beaumont University Hospital, Royal Oak, MI, USA
+  - **Title:** "Particle Arc Therapy" (Provisional Title)
 
 ## Previous Seminars
 
