@@ -30,7 +30,7 @@ layout: homepage
   - **Title:** TBA
  
 - **Date:** September 3rd, 2024
-  - **Speaker:** Dr. Arthur Lalonde
+  - **Speaker:** Dr. Xuanfeng Ding
   - **Affiliation(s):** Corewell Health William Beaumont University Hospital, Royal Oak, MI, USA
   - **Title:** "Particle Arc Therapy" (Provisional Title)
 
