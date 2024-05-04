@@ -12,7 +12,7 @@ layout: homepage
 - **Date:** May 7th, 2024
   - **Speaker:** Dr. Jungwook Shin
   - **Affiliation(s):** National Cancer Institute, Rockville, MD, USA
-  - **Title:** "Patient-specific Dosimetry for I131-Radiopharmaceutical Therapy" (Provisional Title)
+  - **Title:** "Imaging-based dosimetry and its applications for metastatic thyroid cancer treatment"
 
 - **Date:** June 4th, 2024
   - **Speaker:** Dr. Sebastian Tattenberg
