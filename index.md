@@ -9,11 +9,6 @@ layout: homepage
 
 ## Upcoming Seminars
 
-- **Date:** May 7th, 2024
-  - **Speaker:** Dr. Jungwook Shin
-  - **Affiliation(s):** National Cancer Institute, Rockville, MD, USA
-  - **Title:** "Imaging-based dosimetry and its applications for metastatic thyroid cancer treatment"
-
 - **Date:** June 4th, 2024
   - **Speaker:** Dr. Sebastian Tattenberg
   - **Affiliation(s):** NOSM University, Sudbury, ON, Canada and TRIUMF, Vancouver, BC, Canada 
@@ -35,6 +30,11 @@ layout: homepage
   - **Title:** "Particle Arc Therapy" (Provisional Title)
 
 ## Previous Seminars
+
+- **Date:** May 7th, 2024
+  - **Speaker:** Dr. Jungwook Shin
+  - **Affiliation(s):** National Cancer Institute, Rockville, MD, USA
+  - **Title:** "Imaging-based dosimetry and its applications for metastatic thyroid cancer treatment"
 
 - **Date:** April 16th, 2024
   - **Speaker:** Dr. Wonmo Sung
