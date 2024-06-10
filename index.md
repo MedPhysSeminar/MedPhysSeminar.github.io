@@ -9,11 +9,6 @@ layout: homepage
 
 ## Upcoming Seminars
 
-- **Date:** June 4th, 2024
-  - **Speaker:** Dr. Sebastian Tattenberg
-  - **Affiliation(s):** NOSM University, Sudbury, ON, Canada and TRIUMF, Vancouver, BC, Canada 
-  - **Title:** "Proton Arc Therapy and Proton Range Uncertainty Reductions; Correlations between Blood Dose and Adverse Clinical Outcomes in Photon Therapy"
-
 - **Date:** July 2nd, 2024
   - **Speaker:** Dr. Nadya Shusharina
   - **Affiliation(s):** Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA
@@ -30,6 +25,11 @@ layout: homepage
   - **Title:** "Particle Arc Therapy" (Provisional Title)
 
 ## Previous Seminars
+
+- **Date:** June 4th, 2024
+  - **Speaker:** Dr. Sebastian Tattenberg
+  - **Affiliation(s):** NOSM University, Sudbury, ON, Canada and TRIUMF, Vancouver, BC, Canada 
+  - **Title:** "Proton Arc Therapy and Proton Range Uncertainty Reductions; Correlations between Blood Dose and Adverse Clinical Outcomes in Photon Therapy"
 
 - **Date:** May 7th, 2024
   - **Speaker:** Dr. Jungwook Shin
