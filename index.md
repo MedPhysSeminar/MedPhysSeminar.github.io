@@ -23,6 +23,11 @@ layout: homepage
   - **Speaker:** Dr. Xuanfeng Ding
   - **Affiliation(s):** Corewell Health William Beaumont University Hospital, Royal Oak, MI, USA
   - **Title:** "Particle Arc Therapy" (Provisional Title)
+ 
+- **Date:** October 1st, 2024
+  - **Speaker:** Dr. Mislav Bobic
+  - **Affiliation(s):** Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA
+  - **Title:** "Adaptive radiotherapy; blood dose" (Provisional Title)
 
 ## Previous Seminars
 
