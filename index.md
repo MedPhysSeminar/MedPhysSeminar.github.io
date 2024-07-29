@@ -9,15 +9,10 @@ layout: homepage
 
 ## Upcoming Seminars
 
-- **Date:** July 2nd, 2024
-  - **Speaker:** Dr. Nadya Shusharina
-  - **Affiliation(s):** Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA
-  - **Title:** "Harnessing DW-MRI to Identify Direction of Tumor Spread in Muscles"
-
 - **Date:** August 6th, 2024
   - **Speaker:** Dr. Arthur Lalonde
   - **Affiliation(s):** Centre Hospitalier de l'Université de Montréal, Montréal, QC, Canada
-  - **Title:** TBA
+  - **Title:** "Tackling the Challenges of Beam Modelling and Real-Time Monitoring in Ultra-High Dose Rate Electron Radiotherapy"
  
 - **Date:** September 3rd, 2024
   - **Speaker:** Dr. Xuanfeng Ding
@@ -30,6 +25,11 @@ layout: homepage
   - **Title:** "Adaptive radiotherapy; blood dose" (Provisional Title)
 
 ## Previous Seminars
+
+- **Date:** July 2nd, 2024
+  - **Speaker:** Dr. Nadya Shusharina
+  - **Affiliation(s):** Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA
+  - **Title:** "Harnessing DW-MRI to Identify Direction of Tumor Spread in Muscles"
 
 - **Date:** June 4th, 2024
   - **Speaker:** Dr. Sebastian Tattenberg
