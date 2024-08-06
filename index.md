@@ -9,11 +9,6 @@ layout: homepage
 
 ## Upcoming Seminars
 
-- **Date:** August 6th, 2024
-  - **Speaker:** Dr. Arthur Lalonde
-  - **Affiliation(s):** Centre Hospitalier de l'Université de Montréal, Montréal, QC, Canada
-  - **Title:** "Tackling the Challenges of Beam Modelling and Real-Time Monitoring in Ultra-High Dose Rate Electron Radiotherapy"
- 
 - **Date:** September 3rd, 2024
   - **Speaker:** Dr. Xuanfeng Ding
   - **Affiliation(s):** Corewell Health William Beaumont University Hospital, Royal Oak, MI, USA
@@ -25,6 +20,11 @@ layout: homepage
   - **Title:** "Adaptive radiotherapy; blood dose" (Provisional Title)
 
 ## Previous Seminars
+
+- **Date:** August 6th, 2024
+  - **Speaker:** Dr. Arthur Lalonde
+  - **Affiliation(s):** Centre Hospitalier de l'Université de Montréal, Montréal, QC, Canada
+  - **Title:** "Tackling the Challenges of Beam Modelling and Real-Time Monitoring in Ultra-High Dose Rate Electron Radiotherapy"
 
 - **Date:** July 2nd, 2024
   - **Speaker:** Dr. Nadya Shusharina
