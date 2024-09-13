@@ -9,17 +9,22 @@ layout: homepage
 
 ## Upcoming Seminars
 
-- **Date:** September 3rd, 2024
-  - **Speaker:** Dr. Xuanfeng Ding
-  - **Affiliation(s):** Corewell Health William Beaumont University Hospital, Royal Oak, MI, USA
-  - **Title:** "Particle Arc Therapy" (Provisional Title)
- 
 - **Date:** October 1st, 2024
+  - **Speaker:** Dr. Abdelkhalek Hammi
+  - **Affiliation(s):** Technical University of Dortmund, Dortmund, Germany
+  - **Title:** "Inter-subject cerebrovascular variability: a source of uncertainty for dose calculation to circulating blood" 
+ 
+- **Date:** November 5th, 2024
   - **Speaker:** Dr. Mislav Bobic
   - **Affiliation(s):** Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA
   - **Title:** "Adaptive radiotherapy; blood dose" (Provisional Title)
 
 ## Previous Seminars
+
+- **Date:** September 3rd, 2024
+  - **Speaker:** Dr. Xuanfeng Ding
+  - **Affiliation(s):** Corewell Health William Beaumont University Hospital, Royal Oak, MI, USA
+  - **Title:** "Particle Arc Therapy" 
 
 - **Date:** August 6th, 2024
   - **Speaker:** Dr. Arthur Lalonde
