@@ -18,6 +18,16 @@ layout: homepage
   - **Speaker:** Dr. Mislav Bobic
   - **Affiliation(s):** Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA
   - **Title:** "Adaptive radiotherapy; blood dose" (Provisional Title)
+ 
+- **Date:** December 3rd, 2024
+  - **Speaker:** Sangseok Ha
+  - **Affiliation(s):** Catholic University of Korea, Seoul, South Korea
+  - **Title:** TBD
+ 
+- **Date:** January 14th, 2025
+  - **Speaker:** Seohan Kim
+  - **Affiliation(s):** Catholic University of Korea, Seoul, South Korea
+  - **Title:** TBD
 
 ## Previous Seminars
 
