@@ -9,20 +9,15 @@ layout: homepage
 
 ## Upcoming Seminars
 
-- **Date:** October 1st, 2024
-  - **Speaker:** Dr. Abdelkhalek Hammi
-  - **Affiliation(s):** Technical University of Dortmund, Dortmund, Germany
-  - **Title:** "Inter-subject cerebrovascular variability: a source of uncertainty for dose calculation to circulating blood" 
- 
 - **Date:** November 5th, 2024
+  - **Speaker:** Sangseok Ha
+  - **Affiliation(s):** Catholic University of Korea, Seoul, South Korea
+  - **Title:** "Y-90 Transarterial Radioembolization Dosimetry and Quantification of Sources of Error"
+ 
+- **Date:** December 3rd, 2024
   - **Speaker:** Dr. Mislav Bobic
   - **Affiliation(s):** Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA
   - **Title:** "Adaptive radiotherapy; blood dose" (Provisional Title)
- 
-- **Date:** December 3rd, 2024
-  - **Speaker:** Sangseok Ha
-  - **Affiliation(s):** Catholic University of Korea, Seoul, South Korea
-  - **Title:** TBD
  
 - **Date:** January 14th, 2025
   - **Speaker:** Seohan Kim
@@ -30,6 +25,11 @@ layout: homepage
   - **Title:** TBD
 
 ## Previous Seminars
+
+- **Date:** October 1st, 2024
+  - **Speaker:** Dr. Abdelkhalek Hammi
+  - **Affiliation(s):** Technical University of Dortmund, Dortmund, Germany
+  - **Title:** "Inter-subject cerebrovascular variability: a source of uncertainty for dose calculation to circulating blood" 
 
 - **Date:** September 3rd, 2024
   - **Speaker:** Dr. Xuanfeng Ding
