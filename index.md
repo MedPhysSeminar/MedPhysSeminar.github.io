@@ -8,23 +8,28 @@ layout: homepage
 
 
 ## Upcoming Seminars
-
-- **Date:** November 5th, 2024
-  - **Speaker:** Sangseok Ha
-  - **Affiliation(s):** Catholic University of Korea, Seoul, South Korea
-  - **Title:** "Y-90 Transarterial Radioembolization Dosimetry and Quantification of Sources of Error"
- 
-- **Date:** December 3rd, 2024
-  - **Speaker:** Dr. Mislav Bobic
-  - **Affiliation(s):** Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA
-  - **Title:** "Adaptive radiotherapy; blood dose" (Provisional Title)
  
 - **Date:** January 14th, 2025
   - **Speaker:** Seohan Kim
   - **Affiliation(s):** Catholic University of Korea, Seoul, South Korea
   - **Title:** TBD
+ 
+- **Date:** February 4th, 2025
+  - **Speaker:** Dr. Hoyeon Lee
+  - **Affiliation(s):** University of Hong Kong, Hong Kong
+  - **Title:** TBD
 
 ## Previous Seminars
+
+- **Date:** December 3rd, 2024
+  - **Speaker:** Dr. Mislav Bobic
+  - **Affiliation(s):** Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA
+  - **Title:** "Online Adaptive Proton Therapy: From Simulation to Experimental Validation"
+
+- **Date:** November 5th, 2024
+  - **Speaker:** Sangseok Ha
+  - **Affiliation(s):** Catholic University of Korea, Seoul, South Korea
+  - **Title:** "Y-90 Transarterial Radioembolization Dosimetry and Quantification of Sources of Error"
 
 - **Date:** October 1st, 2024
   - **Speaker:** Dr. Abdelkhalek Hammi
