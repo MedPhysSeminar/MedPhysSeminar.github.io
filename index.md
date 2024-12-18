@@ -12,7 +12,7 @@ layout: homepage
 - **Date:** January 14th, 2025
   - **Speaker:** Seohan Kim
   - **Affiliation(s):** Catholic University of Korea, Seoul, South Korea
-  - **Title:** TBD
+  - **Title:** Blood sparing radiotherapy for reducing lymphocyte depletion
  
 - **Date:** February 4th, 2025
   - **Speaker:** Dr. Hoyeon Lee
