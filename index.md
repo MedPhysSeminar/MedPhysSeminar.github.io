@@ -9,17 +9,17 @@ layout: homepage
 
 ## Upcoming Seminars
  
-- **Date:** January 14th, 2025
-  - **Speaker:** Seohan Kim
-  - **Affiliation(s):** Catholic University of Korea, Seoul, South Korea
-  - **Title:** Blood sparing radiotherapy for reducing lymphocyte depletion
- 
 - **Date:** February 4th, 2025
   - **Speaker:** Dr. Hoyeon Lee
   - **Affiliation(s):** University of Hong Kong, Hong Kong
   - **Title:** TBD
 
 ## Previous Seminars
+
+- **Date:** January 14th, 2025
+  - **Speaker:** Seohan Kim
+  - **Affiliation(s):** Catholic University of Korea, Seoul, South Korea
+  - **Title:** Blood sparing radiotherapy for reducing lymphocyte depletion
 
 - **Date:** December 3rd, 2024
   - **Speaker:** Dr. Mislav Bobic
