@@ -13,6 +13,11 @@ layout: homepage
   - **Speaker:** Dr. Hoyeon Lee
   - **Affiliation(s):** University of Hong Kong, Hong Kong
   - **Title:** "Research Projects in Medical Imaging and Physics (Med-IP) Group"
+ 
+ - **Date:** March 4th, 2025
+  - **Speaker:** Beatrice Foglia
+  - **Affiliation(s):** Ludwig Maximilian University of Munich, Munich, Germany
+  - **Title:** TBD
 
 ## Previous Seminars
 
