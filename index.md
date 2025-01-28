@@ -12,7 +12,7 @@ layout: homepage
 - **Date:** February 4th, 2025
   - **Speaker:** Dr. Hoyeon Lee
   - **Affiliation(s):** University of Hong Kong, Hong Kong
-  - **Title:** TBD
+  - **Title:** "Research Projects in Medical Imaging and Physics (Med-IP) Group"
 
 ## Previous Seminars
 
