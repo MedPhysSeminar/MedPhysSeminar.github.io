@@ -17,7 +17,7 @@ layout: homepage
  - **Date:** March 4th, 2025
   - **Speaker:** Beatrice Foglia
   - **Affiliation(s):** Ludwig Maximilian University of Munich, Munich, Germany
-  - **Title:** TBD
+  - **Title:** "Dose quantification from prompt-gamma imaging for adaptive planning"
 
 ## Previous Seminars
 
