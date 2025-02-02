@@ -14,7 +14,7 @@ layout: homepage
   - **Affiliation(s):** University of Hong Kong, Hong Kong
   - **Title:** "Research Projects in Medical Imaging and Physics (Med-IP) Group"
  
- - **Date:** March 4th, 2025
+- **Date:** March 4th, 2025
   - **Speaker:** Beatrice Foglia
   - **Affiliation(s):** Ludwig Maximilian University of Munich, Munich, Germany
   - **Title:** "Dose quantification from prompt-gamma imaging for adaptive planning"
