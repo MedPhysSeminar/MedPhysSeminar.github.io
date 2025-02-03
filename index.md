@@ -18,6 +18,11 @@ layout: homepage
   - **Speaker:** Beatrice Foglia
   - **Affiliation(s):** Ludwig Maximilian University of Munich, Munich, Germany
   - **Title:** "Dose quantification from prompt-gamma imaging for adaptive planning"
+ 
+- **Date:** July 1st, 2025
+  - **Speaker:** Dr. Stella Xing
+  - **Affiliation(s):** Memorial Sloan Kettering Cancer Center, New York, NY, USA
+  - **Title:** TBD
 
 ## Previous Seminars
 
