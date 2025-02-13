@@ -9,11 +9,6 @@ layout: homepage
 
 ## Upcoming Seminars
  
-- **Date:** February 4th, 2025
-  - **Speaker:** Dr. Hoyeon Lee
-  - **Affiliation(s):** University of Hong Kong, Hong Kong
-  - **Title:** "Research Projects in Medical Imaging and Physics (Med-IP) Group"
- 
 - **Date:** March 4th, 2025
   - **Speaker:** Beatrice Foglia
   - **Affiliation(s):** Ludwig Maximilian University of Munich, Munich, Germany
@@ -25,6 +20,11 @@ layout: homepage
   - **Title:** TBD
 
 ## Previous Seminars
+
+- **Date:** February 4th, 2025
+  - **Speaker:** Dr. Hoyeon Lee
+  - **Affiliation(s):** University of Hong Kong, Hong Kong
+  - **Title:** "Research Projects in Medical Imaging and Physics (Med-IP) Group"
 
 - **Date:** January 14th, 2025
   - **Speaker:** Seohan Kim
