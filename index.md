@@ -14,6 +14,21 @@ layout: homepage
   - **Affiliation(s):** Ludwig Maximilian University of Munich, Munich, Germany
   - **Title:** "Dose quantification from prompt-gamma imaging for adaptive planning"
  
+- **Date:** April 1st, 2025
+  - **Speaker:** Dr. Ana Maria Barragan Montero and Eliot Peeters
+  - **Affiliation(s):** UCLouvain, Louvain-la-Neuve, Belgium
+  - **Title:** "OpenTPS" (provisional title)
+ 
+- **Date:** May 6th, 2025
+  - **Speaker:** -
+  - **Affiliation(s):** -
+  - **Title:** Break (ESTRO)
+ 
+- **Date:** June 3rd, 2025
+  - **Speaker:** -
+  - **Affiliation(s):** -
+  - **Title:** Break (PTCOG)
+ 
 - **Date:** July 1st, 2025
   - **Speaker:** Dr. Stella Xing
   - **Affiliation(s):** Memorial Sloan Kettering Cancer Center, New York, NY, USA
