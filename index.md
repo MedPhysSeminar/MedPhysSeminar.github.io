@@ -17,7 +17,7 @@ layout: homepage
 - **Date:** April 1st, 2025
   - **Speaker:** Dr. Ana Maria Barragan Montero and Eliot Peeters
   - **Affiliation(s):** UCLouvain, Louvain-la-Neuve, Belgium
-  - **Title:** "OpenTPS" (provisional title)
+  - **Title:** "OpenTPS: fostering innovative research and collaboration in radiotherapy treatment planning"
  
 - **Date:** May 6th, 2025
   - **Speaker:** -
