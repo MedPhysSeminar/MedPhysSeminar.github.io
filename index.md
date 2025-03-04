@@ -9,11 +9,6 @@ layout: homepage
 
 ## Upcoming Seminars
  
-- **Date:** March 4th, 2025
-  - **Speaker:** Beatrice Foglia
-  - **Affiliation(s):** Ludwig Maximilian University of Munich, Munich, Germany
-  - **Title:** "Dose quantification from prompt-gamma imaging for adaptive planning"
- 
 - **Date:** April 1st, 2025
   - **Speaker:** Dr. Ana Maria Barragan Montero and Eliot Peeters
   - **Affiliation(s):** UCLouvain, Louvain-la-Neuve, Belgium
@@ -35,6 +30,11 @@ layout: homepage
   - **Title:** TBD
 
 ## Previous Seminars
+
+- **Date:** March 4th, 2025
+  - **Speaker:** Beatrice Foglia
+  - **Affiliation(s):** Ludwig Maximilian University of Munich, Munich, Germany
+  - **Title:** "Dose quantification from prompt-gamma imaging for adaptive planning"
 
 - **Date:** February 4th, 2025
   - **Speaker:** Dr. Hoyeon Lee
