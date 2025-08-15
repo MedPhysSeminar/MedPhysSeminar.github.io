@@ -8,28 +8,43 @@ layout: homepage
 
 
 ## Upcoming Seminars
+
+- **Date:** September 2nd, 2025
+  - **Speaker:** Dr. Nadine Vatterodt
+  - **Affiliation(s):** Paul Scherrer Institut, Villigen, Switzerland
+  - **Title:** TBA
  
+- **Date:** October 7th, 2025
+  - **Speaker:** Dr. Fernando Hueso-González
+  - **Affiliation(s):** Instituto de Física Corpuscular (IFIC), Valencia, Spain
+  - **Title:** TBA
+
+## Previous Seminars
+
+- **Date:** August 5th, 2025
+  - **Speaker:** Dr. Stella Xing
+  - **Affiliation(s):** Memorial Sloan Kettering Cancer Center, New York, NY, USA
+  - **Title:** "On the association between radiation dose to circulating blood and immunosuppression for patients with locally advanced non-small cell lung cancer"
+ 
+- **Date:** July 1st, 2025
+  - **Speaker:** -
+  - **Affiliation(s):** -
+  - **Title:** Break (conference season)
+
+- **Date:** June 3rd, 2025
+  - **Speaker:** -
+  - **Affiliation(s):** -
+  - **Title:** Break (conference season)
+
+- **Date:** May 6th, 2025
+  - **Speaker:** -
+  - **Affiliation(s):** -
+  - **Title:** Break (conference season)
+
 - **Date:** April 1st, 2025
   - **Speaker:** Dr. Ana Maria Barragan Montero and Eliot Peeters
   - **Affiliation(s):** UCLouvain, Louvain-la-Neuve, Belgium
   - **Title:** "OpenTPS: fostering innovative research and collaboration in radiotherapy treatment planning"
- 
-- **Date:** May 6th, 2025
-  - **Speaker:** -
-  - **Affiliation(s):** -
-  - **Title:** Break (ESTRO)
- 
-- **Date:** June 3rd, 2025
-  - **Speaker:** -
-  - **Affiliation(s):** -
-  - **Title:** Break (PTCOG)
- 
-- **Date:** July 1st, 2025
-  - **Speaker:** Dr. Stella Xing
-  - **Affiliation(s):** Memorial Sloan Kettering Cancer Center, New York, NY, USA
-  - **Title:** TBD
-
-## Previous Seminars
 
 - **Date:** March 4th, 2025
   - **Speaker:** Beatrice Foglia
