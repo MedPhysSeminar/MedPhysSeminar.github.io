@@ -12,7 +12,7 @@ layout: homepage
 - **Date:** September 2nd, 2025
   - **Speaker:** Dr. Nadine Vatterodt
   - **Affiliation(s):** Paul Scherrer Institut, Villigen, Switzerland
-  - **Title:** TBA
+  - **Title:** "Exploring Anatomical Robust Planning in Proton Therapy"
  
 - **Date:** October 7th, 2025
   - **Speaker:** Dr. Fernando Hueso-González
