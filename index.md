@@ -13,6 +13,11 @@ layout: homepage
   - **Speaker:** Fernando Hueso-González, PhD
   - **Affiliation(s):** Instituto de Física Corpuscular (IFIC), Valencia, Spain
   - **Title:** TBA
+ 
+- **Date:** November 4th, 2025
+  - **Speaker:** Francesco Fracciolla, PhD
+  - **Affiliation(s):** UO Fisica Sanitaria, APSS, Trento, Italy and University of Bern, Bern, Switzerland
+  - **Title:** "Commissioning and reporting on first static proton arc clinical treatments"
 
 ## Previous Seminars
 
