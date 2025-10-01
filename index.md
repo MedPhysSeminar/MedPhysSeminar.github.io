@@ -12,7 +12,7 @@ layout: homepage
 - **Date:** October 7th, 2025
   - **Speaker:** Fernando Hueso-González, PhD
   - **Affiliation(s):** Instituto de Física Corpuscular (IFIC), Valencia, Spain
-  - **Title:** TBA
+  - **Title:** "Empowering proton therapy research with tools free of vendor lock-in"
  
 - **Date:** November 4th, 2025
   - **Speaker:** Francesco Fracciolla, PhD
