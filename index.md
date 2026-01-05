@@ -9,22 +9,26 @@ layout: homepage
 
 ## Upcoming Seminars
  
-- **Date:** November 4th, 2025
-  - **Speaker:** Francesco Fracciolla, PhD
-  - **Affiliation(s):** UO Fisica Sanitaria, APSS, Trento, Italy and University of Bern, Bern, Switzerland
-  - **Title:** "Commissioning and reporting on first static proton arc clinical treatments"
- 
-- **Date:** December 2nd, 2025
-  - **Speaker:** -
-  - **Affiliation(s):** -
-  - **Title:** Break (holiday season)
- 
-- **Date:** January 13th, 2026
+- **Date:** February 3rd, 2026
   - **Speaker:** Moritz Rabe, PhD
   - **Affiliation(s):** Ludwig Maximilian University (LMU) Hospital, Munich, Germany
   - **Title:** TBA
 
 ## Previous Seminars
+- **Date:** January 6th, 2025
+  - **Speaker:** -
+  - **Affiliation(s):** -
+  - **Title:** Break (holiday season)
+
+- **Date:** December 2nd, 2025
+  - **Speaker:** -
+  - **Affiliation(s):** -
+  - **Title:** Break (holiday season)
+
+- **Date:** November 4th, 2025
+  - **Speaker:** Francesco Fracciolla, PhD
+  - **Affiliation(s):** UO Fisica Sanitaria, APSS, Trento, Italy and University of Bern, Bern, Switzerland
+  - **Title:** "Commissioning and reporting on first static proton arc clinical treatments"
 
 - **Date:** October 7th, 2025
   - **Speaker:** Fernando Hueso-González, PhD
