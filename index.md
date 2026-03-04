@@ -8,14 +8,24 @@ layout: homepage
 
 
 ## Upcoming Seminars
- 
-- **Date:** February 3rd, 2026
-  - **Speaker:** Moritz Rabe, PhD
-  - **Affiliation(s):** Ludwig Maximilian University (LMU) Hospital, Munich, Germany
+
+- **Date:** April 7th, 2026
+  - **Speaker:** Martina Palkowitsch
+  - **Affiliation(s):** OncoRay, Dresden, Germany
   - **Title:** TBA
 
 ## Previous Seminars
-- **Date:** January 6th, 2025
+- **Date:** March 3rd, 2026
+  - **Speaker:** Sebastian Tattenberg, PhD
+  - **Affiliation(s):** CNRS and INSA Lyon, Lyon, France
+  - **Title:** "Potential collaborations focussing on proton (arc) therapy, radiation-induced lymphopenia, and quality-adjusted life expectancy (QALE) modelling"
+
+- **Date:** February 3rd, 2026
+  - **Speaker:** Moritz Rabe, PhD
+  - **Affiliation(s):** Ludwig Maximilian University (LMU) Hospital, Munich, Germany
+  - **Title:** "Assessment and Calibration of Autosegmentation Network Uncertainties for Online Adaptive Radiotherapy Workflows"
+  - 
+- **Date:** January 6th, 2026
   - **Speaker:** -
   - **Affiliation(s):** -
   - **Title:** Break (holiday season)
