@@ -24,7 +24,7 @@ layout: homepage
   - **Speaker:** Moritz Rabe, PhD
   - **Affiliation(s):** Ludwig Maximilian University (LMU) Hospital, Munich, Germany
   - **Title:** "Assessment and Calibration of Autosegmentation Network Uncertainties for Online Adaptive Radiotherapy Workflows"
-  - 
+  
 - **Date:** January 6th, 2026
   - **Speaker:** -
   - **Affiliation(s):** -
